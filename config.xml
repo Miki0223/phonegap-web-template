@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="ntnu40620240L" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="ntnu-40620240L" version="1.0.0">
     
     <name>我的大學生活</name>
-    <description>我的大學生活</description>
-    <author href="http://web.ntnu.edu.tw/~40620240L/107-2/" email="miki.ieong1999223@gmail.com">40620240L</author>
+    <description>澳門女生在台灣的生活</description>
+    <author href="http://web.ntnu.edu.tw/~40620240L/107-2" email="miki.ieong1999223@gmail.com">我的大學生活</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
